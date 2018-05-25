@@ -44,7 +44,13 @@ var foo = function(x) {
 }
 foo(3)
 ```
-
+```java
+public class Sample {
+  public static void main(String args[]) {
+    System.out.println("Hello World");
+  }
+}
+```
 And here is the same code yet again but with line numbers:
 
 {% highlight javascript linenos %}
