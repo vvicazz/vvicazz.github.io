@@ -44,6 +44,9 @@ var foo = function(x) {
 }
 foo(3)
 ```
+
+And here is the sample java code with syntax highlighting
+
 ```java
 public class Sample {
   public static void main(String args[]) {
